@@ -3,6 +3,8 @@
 A web project developed as part of a bootcamp program.
 
 ![Hero Landing](./assets/welcome.png)
+![Collections](./assets/Collections.png)
+![Sellers](./assets/Sellers.png)
 
 
 ## 🔗 Live Demo
